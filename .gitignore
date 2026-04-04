@@ -1,0 +1,15 @@
+# Local by Flywheel / local environment logs
+logs/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+
+# WordPress local config (contains local DB credentials)
+app/public/wp-config.php
+app/public/local-xdebuginfo.php
+
+# Common dependency/cache folders
+node_modules/
+vendor/
