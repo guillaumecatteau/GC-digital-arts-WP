@@ -1,0 +1,17 @@
+/*
+Theme Name: GC Digital Arts
+Theme URI: https://github.com/guillaumecatteau/GC-digital-arts-WP
+Author: Guillaume Catteau
+Author URI: https://github.com/guillaumecatteau
+Description: Base custom theme for GC Digital Arts.
+Version: 0.1.0
+Requires at least: 6.0
+Tested up to: 6.8
+Requires PHP: 8.0
+Text Domain: gc-digital-arts
+*/
+
+:root {
+	--font-title: 'Audiowide', sans-serif;
+	--font-body: 'Sarala', sans-serif;
+}
